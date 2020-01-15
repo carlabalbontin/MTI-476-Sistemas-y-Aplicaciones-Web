@@ -1,0 +1,68 @@
+{
+	"type": "object",
+	"properties": {
+		"investigadores": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"type": "object",
+				"properties": {
+					"nombre": {
+						"type": "string"
+					},
+					"apellido": {
+						"type": "string"
+					},
+					"fecha-nacimiento": {
+						"type": "string",
+						"format": "YYYY-MM-DD"
+					},
+					"campo": {
+						"type": "string"
+					},
+					"nacionalidad": {
+						"type": "string"
+					},
+					"educacion": {
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"type": "object",
+							"properties": {
+								"tipo": {"type": "string"},
+								"campo": {"type": "string"},
+								"institucion": {"type": "string"},
+								"año": {"type": "integer"},
+								"pais": {"type": "string"}
+							}
+						}
+					},
+					"publicaciones": {
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"type": "object",
+							"properties": {
+								"año": {"type": "integer"},
+								"titulo": {"type": "string"},
+								"publisherName": {"type": "string"},
+								"link": {"type": "string"},
+								"co-escritores": {
+									"type": "array",
+									"items": {
+										"type": "object",
+										"properties": {
+											"nombre": {"type": "string"},
+											"apellido": {"type": "string"}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"required": ["nombre", "apellido", "campo", "nacionalidad", "educacion", "publicaciones"]
+			}
+		}
+	}
+}

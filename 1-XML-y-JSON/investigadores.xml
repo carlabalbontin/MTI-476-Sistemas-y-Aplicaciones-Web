@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<investigadores 
+	xmlns="http://www.cbalt.com/mti/investigadores" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.cbalt.com/mti/investigadores/investigadores.xsd" >
+	<investigador>
+		<nombre>Camila</nombre>
+		<apellidos>Balbontín Tanhnuz</apellidos>
+		<fecha-nacimiento>1989-03-27</fecha-nacimiento>
+		<campo>Ingeniería en Transporte</campo>
+		<nacionalidad>Chilena</nacionalidad>
+		<educacion>
+			<titulo tipo="universitario">
+				<nombre>Ingeniería Civil</nombre>
+				<institucion>Pontificia Universidad Católica</institucion>
+				<año>2013</año>
+				<pais>Chile</pais>
+			</titulo>
+			<titulo tipo="magister">
+				<institucion>Pontificia Universidad Católica</institucion>
+				<año>2013</año>
+				<pais>Chile</pais>
+			</titulo>
+			<titulo tipo="doctorado">
+				<institucion>University of Sydney</institucion>
+				<año>2018</año>
+				<pais>Australia</pais>
+			</titulo>
+		</educacion>
+		<publicaciones>
+			<publicacion>
+				<fecha>2019</fecha>
+				<titulo>Mobility as a service in community transport, in Australia: can it provide a sustainable future? Transportation Research Part A</titulo>
+				<publisherName>Published online</publisherName>
+				<link>https://www.sciencedirect.com/science/article/pii/S0965856418311340?via%3Dihub</link>
+				<co-escritores>
+					<persona nombre="Corinne" apellido="Mulley" />
+					<persona nombre="Ho" apellido="Chinh" />
+					<persona nombre="David" apellido="Hensher" />
+				</co-escritores>
+			</publicacion>
+			<publicacion>
+				<fecha>2019</fecha>
+				<titulo>Cross-cultural contrasts of preferences for bus rapid transit and light rail transit.</titulo>
+				<publisherName>Journal of Transport Economics and Policy</publisherName>
+				<co-escritores>
+					<persona nombre="David" apellido="Hensher" />
+					<persona nombre="Corinne" apellido="Mulley" />
+					<persona nombre="Ho" apellido="Chinh" />
+				</co-escritores>
+			</publicacion>
+			<publicacion>
+				<fecha>2019</fecha>
+				<titulo>Do preferences for BRT and LRT change as a voter, citizen, tax payer, or self-interested resident?</titulo>
+				<publisherName>Transportation</publisherName>
+				<co-escritores>
+					<persona nombre="David" apellido="Hensher" />
+					<persona nombre="Corinne" apellido="Mulley" />
+					<persona nombre="Ho" apellido="Chinh" />
+				</co-escritores>
+			</publicacion>
+		</publicaciones>
+	</investigador>
+</investigadores>

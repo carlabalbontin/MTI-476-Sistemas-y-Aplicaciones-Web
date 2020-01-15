@@ -1,0 +1,94 @@
+{ "investigadores": [
+	{
+		"nombre": "Camila",
+		"apellido": "Balbontin",
+		"fecha-nacimiento": "1989-03-27",
+		"campo": "Ingeniería en Transporte",
+		"nacionalidad": "Chilena",
+		"educacion": [
+			{
+				"tipo": "universitario",
+				"campo": "Ingeniería Civil",
+				"institucion": "Pontificia Universidad Católica",
+				"año": 2013,
+				"pais": "Chile"
+			},
+			{
+				"tipo": "magister",
+				"campo": "Transporte",
+				"institucion": "Pontificia Universidad Católica",
+				"año": 2013,
+				"pais": "Chile"
+			},
+			{
+				"tipo": "doctorado",
+				"campo": "Transporte",
+				"institucion": "University of Sydney",
+				"año": 2018,
+				"pais": "Australia"
+			}
+		],
+		"publicaciones": [
+			{
+				"año": 2019,
+				"titulo": "Mobility as a service in community transport, in Australia: can it provide a sustainable future? Transportation Research Part A",
+				"publisherName": "Published online",
+				"link": "https://www.sciencedirect.com/science/article/pii/S0965856418311340?via%3Dihub",
+				"co-escritores": [
+					{
+						"nombre": "Corinne",
+						"apellido": "Mulley"
+					},
+					{
+						"nombre": "Ho",
+						"apellido": "Chinh"
+					},
+					{
+						"nombre": "David",
+						"apellido": "Hensher"
+					}
+				]
+			},
+			{
+				"año": 2019,
+				"titulo": "Cross-cultural contrasts of preferences for bus rapid transit and light rail transit",
+				"publisherName": "Journal of Transport Economics and Policy",
+				"link": "",
+				"co-escritores": [
+					{
+						"nombre": "David",
+						"apellido": "Hensher"
+					},
+					{
+						"nombre": "Corinne",
+						"apellido": "Mulley"
+					},
+					{
+						"nombre": "Ho",
+						"apellido": "Chinh"
+					}
+				]
+			},
+			{
+				"año": 2019,
+				"titulo": "Do preferences for BRT and LRT change as a voter, citizen, tax payer, or self-interested resident?",
+				"publisherName": "Transportation",
+				"link": "",
+				"co-escritores": [
+					{
+						"nombre": "David",
+						"apellido": "Hensher"
+					},
+					{
+						"nombre": "Corinne",
+						"apellido": "Mulley"
+					},
+					{
+						"nombre": "Ho",
+						"apellido": "Chinh"
+					}
+				]
+			}
+		]
+	}
+]}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema 
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.cbalt.com/mti/investigadores/investigadores.xsd"
+	xmlns="http://www.cbalt.com/mti/investigadores" >
+	<xs:element name="investigadores">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="investigador" type="tipoInvestigador"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="tipoInvestigador">
+		<xs:sequence>
+			<xs:element name="nombre" type="xs:string" />
+			<xs:element name="apellidos" type="xs:string" />
+			<xs:element name="fecha-nacimiento" type="xs:date" />
+			<xs:element name="campo" type="xs:string" />
+			<xs:element name="nacionalidad" type="xs:string" />
+			<xs:element name="educacion">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="titulo" type="tipoTitulo" minOccurs="2" maxOccurs="10"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="publicaciones">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="publicacion" type="tipoPublicacion" minOccurs="2" maxOccurs="1000"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="tipoTitulo">
+		<xs:sequence>
+			<xs:element name="institucion" type="xs:string" />
+			<xs:element name="año" type="xs:gYear" />
+			<xs:element name="pais" type="xs:string" />
+		</xs:sequence>
+		<xs:attribute name="tipo" type="xs:string" />
+	</xs:complexType>
+
+	<xs:complexType name="tipoPublicacion">
+		<xs:sequence>
+			<xs:element name="fecha" type="xs:gYear" />
+			<xs:element name="titulo" type="xs:string" />
+			<xs:element name="publisherName" type="xs:string" />
+			<xs:element name="link" type="xs:string" />
+			<xs:element name="co-escritores">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="persona" type="tipoPersona" minOccurs="0" maxOccurs="20 "/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="tipoPersona">
+		<xs:sequence>
+			<xs:element name="nombre" type="xs:string" />
+			<xs:element name="apellido" type="xs:string" />
+		</xs:sequence>
+		<xs:attribute name="nombre" type="xs:string" />
+		<xs:attribute name="apellido" type="xs:string" />
+	</xs:complexType>
+
+</xs:schema>
