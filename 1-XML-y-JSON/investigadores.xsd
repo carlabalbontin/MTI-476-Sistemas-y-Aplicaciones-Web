@@ -15,6 +15,7 @@
 		<xs:sequence>
 			<xs:element name="nombre" type="xs:string" />
 			<xs:element name="apellidos" type="xs:string" />
+			<xs:element name="foto" type="xs:string" />
 			<xs:element name="fecha-nacimiento" type="xs:date" />
 			<xs:element name="campo" type="xs:string" />
 			<xs:element name="nacionalidad" type="xs:string" />

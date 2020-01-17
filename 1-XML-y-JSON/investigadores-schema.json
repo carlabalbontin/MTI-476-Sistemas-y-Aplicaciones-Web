@@ -13,6 +13,9 @@
 					"apellido": {
 						"type": "string"
 					},
+					"foto": {
+						"type": "string"
+					},
 					"fecha-nacimiento": {
 						"type": "string",
 						"format": "YYYY-MM-DD"

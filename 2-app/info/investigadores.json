@@ -1,7 +1,7 @@
 { "investigadores": [
 	{
 		"nombre": "Camila",
-		"apellido": "Balbontin",
+		"apellidos": "Balbontin Tanhnuz",
 		"foto": "http://www.cbalt.com/mti/investigadores/fotos/cbalbontin.jpeg",
 		"fecha-nacimiento": "1989-03-27",
 		"campo": "Ingeniería en Transporte",
@@ -9,21 +9,21 @@
 		"educacion": [
 			{
 				"tipo": "universitario",
-				"campo": "Ingeniería Civil",
+				"campo": "Título en Ingeniería Civil",
 				"institucion": "Pontificia Universidad Católica",
 				"año": 2013,
 				"pais": "Chile"
 			},
 			{
 				"tipo": "magister",
-				"campo": "Transporte",
+				"campo": "Magister en Transporte",
 				"institucion": "Pontificia Universidad Católica",
 				"año": 2013,
 				"pais": "Chile"
 			},
 			{
 				"tipo": "doctorado",
-				"campo": "Transporte",
+				"campo": "Doctorado en Transporte",
 				"institucion": "University of Sydney",
 				"año": 2018,
 				"pais": "Australia"
@@ -87,6 +87,59 @@
 					{
 						"nombre": "Ho",
 						"apellido": "Chinh"
+					}
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Constanza",
+		"apellidos": "López Lamerain",
+		"foto": "http://www.cbalt.com/mti/investigadores/fotos/clopez.jpeg",
+		"fecha-nacimiento": "1985-09-12",
+		"campo": "Historia de América y Chile",
+		"nacionalidad": "Chilena",
+		"educacion": [
+			{
+				"tipo": "universitario",
+				"campo": "Historia",
+				"institucion": "Universidad Adolfo Ibañez",
+				"año": 2014,
+				"pais": "Chile"
+			},
+			{
+				"tipo": "magister",
+				"campo": "Historia de América y Chile",
+				"institucion": "Universidad Adolfo Ibañez",
+				"año": 2014,
+				"pais": "Chile"
+			},
+			{
+				"tipo": "doctorado",
+				"campo": "Historia",
+				"institucion": "Universidad del País Vasco",
+				"año": 2020,
+				"pais": "Alemania"
+			}
+		],
+		"publicaciones": [
+			{
+				"año": 2019,
+				"titulo": "Mobility as a service in community transport, in Australia: can it provide a sustainable future? Transportation Research Part A",
+				"publisherName": "Published online",
+				"link": "https://www.sciencedirect.com/science/article/pii/S0965856418311340?via%3Dihub",
+				"co-escritores": [
+					{
+						"nombre": "Corinne",
+						"apellido": "Mulley"
+					},
+					{
+						"nombre": "Ho",
+						"apellido": "Chinh"
+					},
+					{
+						"nombre": "David",
+						"apellido": "Hensher"
 					}
 				]
 			}
