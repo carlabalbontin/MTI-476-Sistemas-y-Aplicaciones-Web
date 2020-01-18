@@ -73,19 +73,19 @@
 		<nacionalidad>Chilena</nacionalidad>
 		<educacion>
 			<titulo tipo="universitario">
-				<campo>Historia</campo>
+				<campo>Título en Historia</campo>
 				<institucion>Universidad Adolfo Ibañez</institucion>
 				<año>2014</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="magister">
-				<campo>Historia de América y Chile</campo>
+				<campo>Magister en Historia de América y Chile</campo>
 				<institucion>Universidad Adolfo Ibañez</institucion>
 				<año>2014</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="doctorado">
-				<campo>Historia</campo>
+				<campo>Doctorado en Historia</campo>
 				<institucion>Universidad del País Vasco</institucion>
 				<año>2020</año>
 				<pais>España</pais>

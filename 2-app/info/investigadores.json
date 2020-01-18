@@ -102,21 +102,21 @@
 		"educacion": [
 			{
 				"tipo": "universitario",
-				"campo": "Historia",
+				"campo": "Título en Historia",
 				"institucion": "Universidad Adolfo Ibañez",
 				"año": 2014,
 				"pais": "Chile"
 			},
 			{
 				"tipo": "magister",
-				"campo": "Historia de América y Chile",
+				"campo": "Magister en Historia de América y Chile",
 				"institucion": "Universidad Adolfo Ibañez",
 				"año": 2014,
 				"pais": "Chile"
 			},
 			{
 				"tipo": "doctorado",
-				"campo": "Historia",
+				"campo": "Doctorado en Historia",
 				"institucion": "Universidad del País Vasco",
 				"año": 2020,
 				"pais": "España"
