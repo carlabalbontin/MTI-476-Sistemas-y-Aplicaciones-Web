@@ -119,29 +119,47 @@
 				"campo": "Historia",
 				"institucion": "Universidad del País Vasco",
 				"año": 2020,
-				"pais": "Alemania"
+				"pais": "España"
 			}
 		],
 		"publicaciones": [
 			{
-				"año": 2019,
-				"titulo": "Mobility as a service in community transport, in Australia: can it provide a sustainable future? Transportation Research Part A",
-				"publisherName": "Published online",
-				"link": "https://www.sciencedirect.com/science/article/pii/S0965856418311340?via%3Dihub",
+				"año": 2018,
+				"titulo": "Translating canon law into local reality: from Trent to Santiago de Chile",
+				"publisherName": "Perspectives historiques, Presses Universitaires de Rennes",
+				"link": "https://www.academia.edu/35870910/L%C3%B3pez_Lamerain_Translating_canon_law.pdf",
 				"co-escritores": [
 					{
-						"nombre": "Corinne",
-						"apellido": "Mulley"
+						"nombre": "Hugo",
+						"apellido": "Beauvant"
 					},
 					{
-						"nombre": "Ho",
-						"apellido": "Chinh"
+						"nombre": "Thérence",
+						"apellido": "Carvalho"
 					},
 					{
-						"nombre": "David",
-						"apellido": "Hensher"
+						"nombre": "Mathilde",
+						"apellido": "Lemée"
 					}
 				]
+			}
+			{
+				"año": 2016,
+				"titulo": "The Third Council of Lima and the unified evangelistic norms in the ecclesiastical province of Peru",
+				"publisherName": "Világ-Torténet",
+				"link": "https://www.academia.edu/28430278/A_harmadik_limai_zsinat_%C3%A9s_az_egys%C3%A9ges_evangeliz%C3%A1ci%C3%B3s_rendszab%C3%A1lyok_a_perui_egyh%C3%A1ztartom%C3%A1nyban"
+			}
+			{
+				"año": 2011,
+				"titulo": "El Concilio de Trento y Sudamérica: Aplicaciones y adaptaciones en el III Concilio Limense",
+				"publisherName": "Anuario de Historia de la Iglesia en Chile",
+				"link": "https://www.academia.edu/7509485/El_Concilio_de_Trento_y_Sudam%C3%A9rica_Aplicaciones_y_adaptaciones_en_el_III_Concilio_Limense"
+			}
+			{
+				"año": 2011,
+				"titulo": "El III Concilio de Lima y la conformación de una normativa evangelizadora para la Provincia Eclesiástica del Perú",
+				"publisherName": "Intus-Legere Historia",
+				"link": "https://www.academia.edu/2034108/El_III_Concilio_de_Lima_y_la_conformaci%C3%B3n_de_una_normativa_evangelizadora_para_la_Provincia_Eclesi%C3%A1stica_del_Per%C3%BA"
 			}
 		]
 	}
