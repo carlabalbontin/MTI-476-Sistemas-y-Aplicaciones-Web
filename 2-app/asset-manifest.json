@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.65e12714.chunk.css",
-    "main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.8a8b7e00.chunk.js",
-    "main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.8a8b7e00.chunk.js.map",
+    "main.css": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.7b5740c3.chunk.css",
+    "main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.5315b4c6.chunk.js",
+    "main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.5315b4c6.chunk.js.map",
     "runtime-main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/runtime-main.f62a2466.js",
     "runtime-main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/runtime-main.f62a2466.js.map",
     "static/js/2.65d0ab45.chunk.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js",
     "static/js/2.65d0ab45.chunk.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js.map",
     "index.html": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/index.html",
-    "precache-manifest.50031889747f366389813dcd46264fbe.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.50031889747f366389813dcd46264fbe.js",
+    "precache-manifest.47ddcbfcc4c3b7c726d93637c500fdf6.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.47ddcbfcc4c3b7c726d93637c500fdf6.js",
     "service-worker.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/service-worker.js",
-    "static/css/main.65e12714.chunk.css.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.65e12714.chunk.css.map",
+    "static/css/main.7b5740c3.chunk.css.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.7b5740c3.chunk.css.map",
     "static/js/2.65d0ab45.chunk.js.LICENSE": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js.LICENSE",
-    "static/media/loader.gif": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/media/loader.1c249308.gif"
+    "static/media/loader.gif": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/media/loader.3e803924.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.f62a2466.js",
     "static/js/2.65d0ab45.chunk.js",
-    "static/css/main.65e12714.chunk.css",
-    "static/js/main.8a8b7e00.chunk.js"
+    "static/css/main.7b5740c3.chunk.css",
+    "static/js/main.5315b4c6.chunk.js"
   ]
 }

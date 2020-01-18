@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2973559dea9eae4529495e87a221c70a",
+    "revision": "f257927a03426f5e901b873bd53fbc98",
     "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/index.html"
   },
   {
-    "revision": "5b9928b70c3f2172ee21",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.65e12714.chunk.css"
+    "revision": "3837067d17af710edddc",
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.7b5740c3.chunk.css"
   },
   {
     "revision": "24e695f2d7febe0c16c6",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js.LICENSE"
   },
   {
-    "revision": "5b9928b70c3f2172ee21",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.8a8b7e00.chunk.js"
+    "revision": "3837067d17af710edddc",
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.5315b4c6.chunk.js"
   },
   {
     "revision": "7423e5eb63c9d809b6aa",
     "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/runtime-main.f62a2466.js"
   },
   {
-    "revision": "1c249308ef49bbd905ef2b3633f8ab11",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/media/loader.1c249308.gif"
+    "revision": "3e8039242e517ee7edc05a4e226e0b80",
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/media/loader.3e803924.gif"
   }
 ]);
