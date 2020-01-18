@@ -12,19 +12,19 @@
 		<nacionalidad>Chilena</nacionalidad>
 		<educacion>
 			<titulo tipo="universitario">
-				<campo>Ingeniería Civil</campo>
+				<campo>Título en Ingeniería Civil</campo>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="magister">
-				<campo>Transporte</campo>
+				<campo>Magíster en Transporte</campo>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="doctorado">
-				<campo>Transporte</campo>
+				<campo>Doctorado en Transporte</campo>
 				<institucion>University of Sydney</institucion>
 				<año>2018</año>
 				<pais>Australia</pais>
