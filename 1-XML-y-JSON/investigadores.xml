@@ -6,22 +6,25 @@
 	<investigador>
 		<nombre>Camila</nombre>
 		<apellidos>Balbontín Tanhnuz</apellidos>
+		<foto>http://www.cbalt.com/mti/investigadores/fotos/cbalbontin.jpeg</foto>
 		<fecha-nacimiento>1989-03-27</fecha-nacimiento>
 		<campo>Ingeniería en Transporte</campo>
 		<nacionalidad>Chilena</nacionalidad>
 		<educacion>
 			<titulo tipo="universitario">
-				<nombre>Ingeniería Civil</nombre>
+				<grado>Título en Ingeniería Civil</grado>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="magister">
+				<grado>Magíster en Transporte</grado>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="doctorado">
+				<grado>Doctorado en Transporte</grado>
 				<institucion>University of Sydney</institucion>
 				<año>2018</año>
 				<pais>Australia</pais>
@@ -29,7 +32,7 @@
 		</educacion>
 		<publicaciones>
 			<publicacion>
-				<fecha>2019</fecha>
+				<año>2019</año>
 				<titulo>Mobility as a service in community transport, in Australia: can it provide a sustainable future? Transportation Research Part A</titulo>
 				<publisherName>Published online</publisherName>
 				<link>https://www.sciencedirect.com/science/article/pii/S0965856418311340?via%3Dihub</link>
@@ -40,7 +43,7 @@
 				</co-escritores>
 			</publicacion>
 			<publicacion>
-				<fecha>2019</fecha>
+				<año>2019</año>
 				<titulo>Cross-cultural contrasts of preferences for bus rapid transit and light rail transit.</titulo>
 				<publisherName>Journal of Transport Economics and Policy</publisherName>
 				<co-escritores>
@@ -50,7 +53,7 @@
 				</co-escritores>
 			</publicacion>
 			<publicacion>
-				<fecha>2019</fecha>
+				<año>2019</año>
 				<titulo>Do preferences for BRT and LRT change as a voter, citizen, tax payer, or self-interested resident?</titulo>
 				<publisherName>Transportation</publisherName>
 				<co-escritores>
@@ -58,6 +61,65 @@
 					<persona nombre="Corinne" apellido="Mulley" />
 					<persona nombre="Ho" apellido="Chinh" />
 				</co-escritores>
+			</publicacion>
+		</publicaciones>
+	</investigador>
+	<investigador>
+		<nombre>Constanza</nombre>
+		<apellidos>López Lamerain</apellidos>
+		<fecha-nacimiento>1985-09-12</fecha-nacimiento>
+		<foto>http://www.cbalt.com/mti/investigadores/fotos/clopez.jpeg</foto>
+		<campo>Historia de América y Chile</campo>
+		<nacionalidad>Chilena</nacionalidad>
+		<educacion>
+			<titulo tipo="universitario">
+				<grado>Título en Historia</grado>
+				<institucion>Universidad Adolfo Ibañez</institucion>
+				<año>2014</año>
+				<pais>Chile</pais>
+			</titulo>
+			<titulo tipo="magister">
+				<grado>Magister en Historia de América y Chile</grado>
+				<institucion>Universidad Adolfo Ibañez</institucion>
+				<año>2014</año>
+				<pais>Chile</pais>
+			</titulo>
+			<titulo tipo="doctorado">
+				<grado>Doctorado en Historia</grado>
+				<institucion>Universidad del País Vasco</institucion>
+				<año>2020</año>
+				<pais>España</pais>
+			</titulo>
+		</educacion>
+		<publicaciones>
+			<publicacion>
+				<año>2018</año>
+				<titulo>Translating canon law into local reality: from Trent to Santiago de Chile</titulo>
+				<publisherName>Perspectives historiques, Presses Universitaires de Rennes</publisherName>
+				<link>https://www.academia.edu/35870910/L%C3%B3pez_Lamerain_Translating_canon_law.pdf</link>
+				<co-escritores>
+					<persona nombre="Hugo" apellido="Beauvant" />
+					<persona nombre="Thérence" apellido="Carvalho" />
+					<persona nombre="Mathilde" apellido="Lemée" />
+				</co-escritores>
+			</publicacion>
+			<publicacion>
+				<año>2016</año>
+				<titulo>The Third Council of Lima and the unified evangelistic norms in the ecclesiastical province of Peru</titulo>
+				<publisherName>Világ-Torténet</publisherName>
+				<link>https://www.academia.edu/28430278/A_harmadik_limai_zsinat_%C3%A9s_az_egys%C3%A9ges_evangeliz%C3%A1ci%C3%B3s_rendszab%C3%A1lyok_a_perui_egyh%C3%A1ztartom%C3%A1nyban</link>
+			</publicacion>
+			<publicacion>
+				<año>2011</año>
+				<titulo>El Concilio de Trento y Sudamérica: Aplicaciones y adaptaciones en el III Concilio Limense</titulo>
+				<publisherName>Anuario de Historia de la Iglesia en Chile</publisherName>
+				<link>https://www.academia.edu/7509485/El_Concilio_de_Trento_y_Sudam%C3%A9rica_Aplicaciones_y_adaptaciones_en_el_III_Concilio_Limense</link>
+			</publicacion>
+			<publicacion>
+				<año>2011</año>
+				<titulo>El III Concilio de Lima y la conformación de una normativa evangelizadora para la Provincia Eclesiástica del Perú</titulo>
+				<publisherName>Intus-Legere Historia</publisherName>
+				<link>https://www.academia.edu/2034108/El_III_Concilio_de_Lima_y_la_conformaci%C3%B3n_de_una_normativa_evangelizadora_para_la_Provincia_Eclesi%C3%A1stica_del_Per%C3%BA</link>
 			</publicacion>
 		</publicaciones>
 	</investigador>

@@ -7,15 +7,9 @@
 			"items": {
 				"type": "object",
 				"properties": {
-					"nombre": {
-						"type": "string"
-					},
-					"apellido": {
-						"type": "string"
-					},
-					"foto": {
-						"type": "string"
-					},
+					"nombre": { "type": "string" },
+					"apellidos": { "type": "string" },
+					"foto": { "type": "string" },
 					"fecha-nacimiento": {
 						"type": "string",
 						"format": "YYYY-MM-DD"

@@ -6,25 +6,25 @@
 	<investigador>
 		<nombre>Camila</nombre>
 		<apellidos>Balbontín Tanhnuz</apellidos>
-		<fecha-nacimiento>1989-03-27</fecha-nacimiento>
 		<foto>http://www.cbalt.com/mti/investigadores/fotos/cbalbontin.jpeg</foto>
+		<fecha-nacimiento>1989-03-27</fecha-nacimiento>
 		<campo>Ingeniería en Transporte</campo>
 		<nacionalidad>Chilena</nacionalidad>
 		<educacion>
 			<titulo tipo="universitario">
-				<campo>Título en Ingeniería Civil</campo>
+				<grado>Título en Ingeniería Civil</grado>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="magister">
-				<campo>Magíster en Transporte</campo>
+				<grado>Magíster en Transporte</grado>
 				<institucion>Pontificia Universidad Católica</institucion>
 				<año>2013</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="doctorado">
-				<campo>Doctorado en Transporte</campo>
+				<grado>Doctorado en Transporte</grado>
 				<institucion>University of Sydney</institucion>
 				<año>2018</año>
 				<pais>Australia</pais>
@@ -73,19 +73,19 @@
 		<nacionalidad>Chilena</nacionalidad>
 		<educacion>
 			<titulo tipo="universitario">
-				<campo>Título en Historia</campo>
+				<grado>Título en Historia</grado>
 				<institucion>Universidad Adolfo Ibañez</institucion>
 				<año>2014</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="magister">
-				<campo>Magister en Historia de América y Chile</campo>
+				<grado>Magister en Historia de América y Chile</grado>
 				<institucion>Universidad Adolfo Ibañez</institucion>
 				<año>2014</año>
 				<pais>Chile</pais>
 			</titulo>
 			<titulo tipo="doctorado">
-				<campo>Doctorado en Historia</campo>
+				<grado>Doctorado en Historia</grado>
 				<institucion>Universidad del País Vasco</institucion>
 				<año>2020</año>
 				<pais>España</pais>

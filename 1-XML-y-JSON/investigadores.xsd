@@ -38,6 +38,7 @@
 
 	<xs:complexType name="tipoTitulo">
 		<xs:sequence>
+			<xs:element name="grado" type="xs:string" />
 			<xs:element name="institucion" type="xs:string" />
 			<xs:element name="año" type="xs:gYear" />
 			<xs:element name="pais" type="xs:string" />
@@ -47,7 +48,7 @@
 
 	<xs:complexType name="tipoPublicacion">
 		<xs:sequence>
-			<xs:element name="fecha" type="xs:gYear" />
+			<xs:element name="año" type="xs:gYear" />
 			<xs:element name="titulo" type="xs:string" />
 			<xs:element name="publisherName" type="xs:string" />
 			<xs:element name="link" type="xs:string" />
@@ -62,10 +63,6 @@
 	</xs:complexType>
 
 	<xs:complexType name="tipoPersona">
-		<xs:sequence>
-			<xs:element name="nombre" type="xs:string" />
-			<xs:element name="apellido" type="xs:string" />
-		</xs:sequence>
 		<xs:attribute name="nombre" type="xs:string" />
 		<xs:attribute name="apellido" type="xs:string" />
 	</xs:complexType>

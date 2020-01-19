@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.7b5740c3.chunk.css",
-    "main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.5315b4c6.chunk.js",
-    "main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.5315b4c6.chunk.js.map",
+    "main.css": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.3eadc147.chunk.css",
+    "main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.6dc3ac61.chunk.js",
+    "main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.6dc3ac61.chunk.js.map",
     "runtime-main.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/runtime-main.f62a2466.js",
     "runtime-main.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/runtime-main.f62a2466.js.map",
-    "static/js/2.65d0ab45.chunk.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js",
-    "static/js/2.65d0ab45.chunk.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js.map",
+    "static/js/2.2b8b71d4.chunk.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.2b8b71d4.chunk.js",
+    "static/js/2.2b8b71d4.chunk.js.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.2b8b71d4.chunk.js.map",
     "index.html": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/index.html",
-    "precache-manifest.47ddcbfcc4c3b7c726d93637c500fdf6.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.47ddcbfcc4c3b7c726d93637c500fdf6.js",
+    "precache-manifest.bd04d343af86466dd0d71996a6aee592.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.bd04d343af86466dd0d71996a6aee592.js",
     "service-worker.js": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/service-worker.js",
-    "static/css/main.7b5740c3.chunk.css.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.7b5740c3.chunk.css.map",
-    "static/js/2.65d0ab45.chunk.js.LICENSE": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.65d0ab45.chunk.js.LICENSE",
+    "static/css/main.3eadc147.chunk.css.map": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.3eadc147.chunk.css.map",
+    "static/js/2.2b8b71d4.chunk.js.LICENSE": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.2b8b71d4.chunk.js.LICENSE",
     "static/media/loader.gif": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/media/loader.3e803924.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.f62a2466.js",
-    "static/js/2.65d0ab45.chunk.js",
-    "static/css/main.7b5740c3.chunk.css",
-    "static/js/main.5315b4c6.chunk.js"
+    "static/js/2.2b8b71d4.chunk.js",
+    "static/css/main.3eadc147.chunk.css",
+    "static/js/main.6dc3ac61.chunk.js"
   ]
 }
