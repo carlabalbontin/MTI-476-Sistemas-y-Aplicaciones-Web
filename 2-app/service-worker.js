@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.bd04d343af86466dd0d71996a6aee592.js"
+  "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/precache-manifest.86de7773b62d1fceaa0bc7cbecb8c181.js"
 );
 
 self.addEventListener('message', (event) => {
