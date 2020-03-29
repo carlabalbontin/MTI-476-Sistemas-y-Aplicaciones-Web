@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f64bdf6555999653dc8d71eb8f8d412e",
+    "revision": "c4d7fd4e9333a1f68ccb0b54093fa856",
     "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/index.html"
   },
   {
-    "revision": "5d165e68fc74e93a1be6",
+    "revision": "413d7fc47db4a5830177",
     "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/css/main.cce6ac31.chunk.css"
   },
   {
-    "revision": "aed2a8669170a03a2416",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.227aa9a9.chunk.js"
+    "revision": "a43855ddb34bc4e66bfc",
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.2eef0627.chunk.js"
   },
   {
     "revision": "bf91befff6f03511a9fca9de4a4d613f",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.227aa9a9.chunk.js.LICENSE"
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/2.2eef0627.chunk.js.LICENSE"
   },
   {
-    "revision": "5d165e68fc74e93a1be6",
-    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.686f36b7.chunk.js"
+    "revision": "413d7fc47db4a5830177",
+    "url": "/MTI-476-Sistemas-y-Aplicaciones-Web/2-app/static/js/main.8cc89367.chunk.js"
   },
   {
     "revision": "7423e5eb63c9d809b6aa",
